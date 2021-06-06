@@ -1,6 +1,6 @@
 ![image](https://raw.githubusercontent.com/mytechnotalent/Fundamental-CPP/main/Fundamental%20C%2B%2B.png)
 
-# Fundamental-CPP
+# Fundamental C++
 The book and code repo for the FREE Fundamental C++ book by Kevin Thomas.
 
 ## FREE Book
