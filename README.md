@@ -4,7 +4,7 @@
 The book and code repo for the FREE Fundamental C++ book by Kevin Thomas.
 
 ## FREE Book
-[Download](https://github.com/mytechnotalent/Fundamental-CPP/blob/main/Fundamental%20C%2B%2B%20(Alpha%200x03).pdf)
+[Download](https://github.com/mytechnotalent/Fundamental-CPP/blob/main/Fundamental%20C%2B%2B%20(0x0004).pdf)
 
 ## BOOK IS UNDER DEVELOPMENT
 
